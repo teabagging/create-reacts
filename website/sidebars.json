@@ -47,8 +47,6 @@
       "title-and-meta-tags"
     ],
     "Deployment": [
-      "react-router",
-      "meteor",
       "awesome-react-components",
       "deployment"
     ],
