@@ -40,7 +40,7 @@ themeConfig: {
   announcementBar: {
     id: 'support_ukraine',
     content:
-      'Support <a target="_blank" rel="noopener noreferrer" href="https://www.543x.com">www.543x.com</a>.',
+      'Support &nbsp;&nbsp;&nbsp<a target="_blank" rel="noopener noreferrer" href="https://www.543x.com">www.543x.com</a>.',
     backgroundColor: '#20232a',
     textColor: '#fff',
     isCloseable: false,
