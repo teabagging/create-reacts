@@ -48,13 +48,8 @@
     ],
     "Deployment": [
       "react-router",
-      "ionic-framework",
-      "zustand",
-      "react",
       "meteor",
-      "30-Days-Of-JavaScript",
       "awesome-react-components",
-      "react-use",
       "deployment"
     ],
     "Advanced Usage": [
@@ -65,17 +60,12 @@
       "alternatives-to-ejecting"
     ],
     "Support": [
-      "next",
       "react-native",
-      "ant-design",
       "freeCodeCamp",
-      "storybook",
       "See how the exact same",
       "bun",
       "awesome-react",
-      "33-js-concepts",
       "screenshot-to-code",
-      "gatsby",
       "docusaurus",
       "troubleshooting"
     ]
