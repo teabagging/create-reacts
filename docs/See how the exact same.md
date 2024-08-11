@@ -28,7 +28,7 @@ Or you can [view upcoming implementations (WIPs)](https://github.com/gothinkster
 # Learn more
 
 - ["Introducing RealWorld 🙌"](https://medium.com/@ericsimons/introducing-realworld-6016654d36b5) by Eric Simons
-- Every tutorial is built against the same [API spec](api/) to ensure modularity of every frontend & backend
+- Every tutorial is built against the same [API spec] to ensure modularity of every frontend & backend
 - Every frontend utilizes the same handcrafted [Bootstrap 4 theme](https://github.com/gothinkster/conduit-bootstrap-template) for identical UI/UX
 - There is a hosted version of the backend API available for public usage, no API keys are required
 - Interested in creating a new RealWorld stack? View our [starter guide & spec](https://realworld-docs.netlify.app/docs/implementation-creation/introduction)
