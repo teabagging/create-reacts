@@ -5,7 +5,10 @@
  * LICENSE file in the root directory of this source tree.
  */
 'use strict';
-
+module.exports = {
+  // 其他配置...
+  onBrokenLinks: 'warn', // 或者 'ignore'
+};
 const siteConfig = {
   title: 'Create React App',
   tagline: 'Set up a modern web app by running one command.',
