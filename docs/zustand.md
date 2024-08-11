@@ -28,7 +28,7 @@ npm i zustand
 
 ## First create a store
 
-Your store is a hook! You can put anything in it: primitives, objects, functions. State has to be updated immutably and the `set` function [merges state](./docs/guides/immutable-state-and-merging.md) to help it.
+Your store is a hook! You can put anything in it: primitives, objects, functions. State has to be updated immutably and the `set` function [merges state]
 
 ```jsx
 import { create } from 'zustand'
@@ -90,7 +90,7 @@ const nuts = useBearStore((state) => state.nuts)
 const honey = useBearStore((state) => state.honey)
 ```
 
-If you want to construct a single object with multiple state-picks inside, similar to redux's mapStateToProps, you can use [useShallow](./docs/guides/prevent-rerenders-with-use-shallow.md) to prevent unnecessary rerenders when the selector output does not change according to shallow equal.
+If you want to construct a single object with multiple state-picks inside, similar to redux's mapStateToProps, you can use [useShallow] to prevent unnecessary rerenders when the selector output does not change according to shallow equal.
 
 ```jsx
 import { create } from 'zustand'
@@ -288,7 +288,7 @@ const clearForest = useLushStore((state) => state.clearForest)
 clearForest()
 ```
 
-[Alternatively, there are some other solutions.](./docs/guides/updating-state.md#with-immer)
+[Alternatively, there are some other solutions.]
 
 ## Persist middleware
 
@@ -312,7 +312,7 @@ const useFishStore = create(
 )
 ```
 
-[See the full documentation for this middleware.](./docs/integrations/persisting-store-data.md)
+[See the full documentation for this middleware.]
 
 ## Immer middleware
 
@@ -496,15 +496,15 @@ A more complete TypeScript guide is [here](docs/guides/typescript.md).
 
 ## Best practices
 
-- You may wonder how to organize your code for better maintenance: [Splitting the store into separate slices](./docs/guides/slices-pattern.md).
-- Recommended usage for this unopinionated library: [Flux inspired practice](./docs/guides/flux-inspired-practice.md).
-- [Calling actions outside a React event handler in pre-React 18](./docs/guides/event-handler-in-pre-react-18.md).
-- [Testing](./docs/guides/testing.md)
-- For more, have a look [in the docs folder](./docs/)
+- You may wonder how to organize your code for better maintenance: [Splitting the store into separate slices]
+- Recommended usage for this unopinionated library: [Flux inspired practice]flux-inspired-practice.md).
+- [Calling actions outside a React event handler in pre-React 18]event-handler-in-pre-react-18.md).
+- [Testing]
+- For more, have a look [in the docs folder]
 
 ## Third-Party Libraries
 
-Some users may want to extend Zustand's feature set which can be done using third-party libraries made by the community. For information regarding third-party libraries with Zustand, visit [the doc](./docs/integrations/third-party-libraries.md).
+Some users may want to extend Zustand's feature set which can be done using third-party libraries made by the community. For information regarding third-party libraries with Zustand, visit [the doc]
 
 ## Comparison with other libraries
 

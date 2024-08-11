@@ -91,9 +91,9 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 ## License
 
-Docusaurus is [MIT licensed](./LICENSE).
+Docusaurus is [MIT licensed]
 
-The Docusaurus documentation (e.g., `.md` files in the `/docs` folder) is [Creative Commons licensed](./LICENSE-docs).
+The Docusaurus documentation (e.g., `.md` files in the `/docs` folder) is [Creative Commons licensed]
 
 ## Special thanks
 

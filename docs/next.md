@@ -13,28 +13,16 @@ sidebar_label: next
 
 ## Repository
 
-- [Triaging](./contributing/repository/triaging.md)
-- [Linting](./contributing/repository/linting.md)
-- [Release Channels and Publishing](./contributing/repository/release-channels-publishing.md)
-- [Pull Request Descriptions](./contributing/repository/pull-request-descriptions.md)
 
 ## Documentation
 
-- [Adding Documentation](./contributing/docs/adding-documentation.md)
+- [Adding Documentation]
 
 ## Examples
 
-To contribute to [our examples](./examples), please see
+To contribute to [our examples], please see
 
-- [Adding Examples](./contributing/examples/adding-examples.md)
-- [Run Example Apps](./contributing/examples/run-example-apps.md)
+- [Adding Examples]
+- [Run Example Apps]
 
 ## Core
-
-- [Developing](./contributing/core/developing.md)
-- [Building](./contributing/core/building.md)
-- [Testing](./contributing/core/testing.md)
-- [Adding Error Links](./contributing/core/adding-error-links.md)
-- [Adding a new feature](./contributing/core/adding-features.md)
-- [Developing Using Local App](./contributing/core/developing-using-local-app.md)
-<!-- - [Using the VS Code Debugger](./contributing/core/vscode-debugger.md) -->
